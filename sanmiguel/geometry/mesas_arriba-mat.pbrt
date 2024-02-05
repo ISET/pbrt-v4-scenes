@@ -37,7 +37,7 @@ Texture "Map #483" "spectrum" "imagemap"
     "float maxanisotropy" [ 8 ]
     "string mapping" [ "uv" ]
     "string wrap" [ "repeat" ]
-    "string filename" [ "textures/Finishes.Flooring.Carpet.Loop.5.png" ]
+    "string filename" [ "textures/Finishes_Flooring_Carpet_Loop_5.png" ]
 Texture "Map #484" "float" "imagemap"
     "float uscale" [ 1 ]
     "float vscale" [ 1 ]
@@ -46,7 +46,7 @@ Texture "Map #484" "float" "imagemap"
     "float maxanisotropy" [ 8 ]
     "string mapping" [ "uv" ]
     "string wrap" [ "repeat" ]
-    "string filename" [ "textures/Finishes.Flooring.Carpet.Loop.5.png" ]
+    "string filename" [ "textures/Finishes_Flooring_Carpet_Loop_5.png" ]
 Texture "Map #484_bump" "float" "scale"
     "float scale" [ 0.001 ]
     "texture tex" [ "Map #484" ]
